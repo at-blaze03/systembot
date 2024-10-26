@@ -1,3 +1,4 @@
+const { EmbedBuilder } = require('discord.js')
 const config = require('../config')
 
 function loadSupportNotify(client) {
